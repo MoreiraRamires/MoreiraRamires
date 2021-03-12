@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MoreiraRamires" alt="Rafael Moreira Ramires" /> </p>
 
 
-Contact-me on:
-[LinkedIn](https://linkedin.com/in/rafael-ramires)
+<p align=left>I'm studying <strong>Computer Engineering</strong>.</p>
+<p align="left">🚀 Skills: <strong>HTML, CSS , Node and React </strong></p>
 
+Contact-me on:
+[LinkedIn](https://www.linkedin.com/in/rafael-ramires-791aa378/)
