@@ -5,12 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MoreiraRamires" alt="Rafael Moreira Ramires" /> </p>
 
 
-<p align="left"> ### Technology Stack 💻</p>
-
-
-
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<p align="left">🚀 Skills: <strong>HTML, CSS, Sass, React and Node.js </strong></p>
 
 <p align="left"> ### Contact me 💻</p>
 <p align="left">
