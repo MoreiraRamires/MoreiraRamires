@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MoreiraRamires" alt="Rafael Moreira Ramires" /> </p>
 
 <p align="center">
+  
 Quando criança eu dizia que queira ser “inventor”!
 Os anos passaram e me formei em Eletrônica onde apurei meu gosto pela tecnologia.
 
