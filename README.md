@@ -11,7 +11,7 @@ Os anos passaram e me formei em Eletrônica onde apurei meu gosto pela tecnologi
 
 Apesar disso, concluí minha primeira graduação na área de Humanas. Onde fui exposto ao estudo das Artes e das Ciências Sociais. O estudo das Artes me permitiu desenvolver senso estético, um gosto pelo “belo” e o estudo das Ciências Sociais foi responsável, entre tantas outras coisas, a aprimorar em mim a empatia e o desejo de mudar realidades.
 
-Encontrei no Desenvolvimento FrontEnd a oportunidade de realizar meus sonhos e alcançar meus objetivos, pois agora posso criar aplicações web bonitas e que tenham condições de impactar positivamente a vida das pessoas.
+Encontrei no Desenvolvimento FrontEnd a oportunidade de realizar meus sonhos e alcançar meus objetivos, pois agora posso criar belas aplicações web  e que tenham condições de impactar positivamente a vida das pessoas.
 </p>
 
 <p align="left"> ### Contact me 💻</p>
